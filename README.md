@@ -1,5 +1,7 @@
 # Color Runner Game
 
+![Untitled design (5) (1)](https://github.com/user-attachments/assets/e9007f89-68c2-4fa8-9bc1-132af455b920)
+
 A fast-paced endless runner game where you match colors to survive! Built with React, TypeScript, and Tailwind CSS.
 
 ## Game Instructions
@@ -34,9 +36,8 @@ A fast-paced endless runner game where you match colors to survive! Built with R
 ### Deployment Steps
 
 1. **S3 Setup**
-   ```bash
    - Just run the deploy.sh script it will configure bucket, just change the name of the bucket and you are good to go.
-   ```
+
 
 4. **CloudFront Setup**
    - Create distribution pointing to S3 bucket
@@ -57,3 +58,7 @@ A fast-paced endless runner game where you match colors to survive! Built with R
 - Choose appropriate EC2 instance type
 - Monitor CloudFront usage
 - Set up billing alerts
+
+- ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/4eac7f76-370e-4e2f-81ec-c3b90600e907)
+
+
